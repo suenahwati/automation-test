@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Approver List</name>
+   <tag></tag>
+   <elementGuidId>6a6ea56c-81e8-4204-85a1-0ca7cdc92abb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='category-B6F52CD0B2F2489596BECA28C68A8102']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#category-B6F52CD0B2F2489596BECA28C68A8102 > a.dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>48c961b0-7ce2-44a5-8301-028b9495b819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>738cfd1f-4e86-424f-8dd0-b411bc951b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>19f62006-7e0c-435d-874a-a1b71678c9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Approver List</value>
+      <webElementGuid>4ce13af6-5a24-45bb-a357-67c94e338dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category-B6F52CD0B2F2489596BECA28C68A8102&quot;)/a[@class=&quot;dropdown&quot;]</value>
+      <webElementGuid>ffb271bf-6353-4307-8eb3-a0e6482733e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='category-B6F52CD0B2F2489596BECA28C68A8102']/a</value>
+      <webElementGuid>76e0456b-a084-4fd2-b874-0420b60836b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Expenses'])[1]/following::a[1]</value>
+      <webElementGuid>29ca40ee-ee57-45bf-96d7-7c02d9ea3053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected Expenses'])[1]/following::a[2]</value>
+      <webElementGuid>cfa4ac7d-4e30-489b-aa3c-eb8e087194e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approver Inbox'])[1]/preceding::a[1]</value>
+      <webElementGuid>41b3da04-4141-406e-90e0-bced8bed09d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[2]</value>
+      <webElementGuid>76f5a481-549d-4a57-8b38-73d6ab899e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]/a</value>
+      <webElementGuid>a63a994c-d0ce-40f4-a88e-4a50ffbe3e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = ' Approver List' or . = ' Approver List')]</value>
+      <webElementGuid>ed9a0f1c-ee0f-4cbb-a7a1-2ec9645273a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

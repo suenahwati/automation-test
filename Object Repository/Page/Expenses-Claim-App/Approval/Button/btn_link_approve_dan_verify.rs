@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_link_approve_dan_verify</name>
+   <tag></tag>
+   <elementGuidId>d753bd20-de34-432c-b465-b77d89678fa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ExpensesInbox']/tbody/tr/td[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.column_inboxAction.footable-visible.footable-last-column > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c9db2d2b-ba70-4b68-8818-cf95eafe08b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jw/web/userview/expenseclaim/home/_/inbox?activityId=865_300_expenseclaim_process1_approve_claim&amp;_mode=assignment</value>
+      <webElementGuid>1e0861e0-3a6e-4c5a-a67d-afc78a324ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HOD Approve</value>
+      <webElementGuid>bb889bd3-e4d2-4ac5-8c94-a68108caf0ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ExpensesInbox&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;column_inboxAction footable-visible footable-last-column&quot;]/a[1]</value>
+      <webElementGuid>f30c0a80-31ea-4ce5-bd7a-1ceb058c5f00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ExpensesInbox']/tbody/tr/td[9]/a</value>
+      <webElementGuid>1a70fe2e-106f-402e-8029-e76db468f9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'HOD Approve')]</value>
+      <webElementGuid>3833eedd-0b94-4a2e-99cc-e4a1cc807bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AD49270723'])[1]/following::a[1]</value>
+      <webElementGuid>82f79692-609b-4b4a-b5e3-8d414e0bcfb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expenses Claim'])[1]/following::a[1]</value>
+      <webElementGuid>1e536de1-fa34-4fe8-9dd3-a858eaa76bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation 20:14'])[1]/preceding::a[1]</value>
+      <webElementGuid>09ffc950-0cb7-46af-bc5a-c2f8cc1beb3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[2]/preceding::a[1]</value>
+      <webElementGuid>ee627e0f-a035-461a-8bf6-3cc8e2b01085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jw/web/userview/expenseclaim/home/_/inbox?activityId=865_300_expenseclaim_process1_approve_claim&amp;_mode=assignment')]</value>
+      <webElementGuid>62508862-c753-4630-9048-4fadf0495481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a</value>
+      <webElementGuid>ddc510e3-4a84-4f73-951c-6ec43c3be89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jw/web/userview/expenseclaim/home/_/inbox?activityId=865_300_expenseclaim_process1_approve_claim&amp;_mode=assignment' and (text() = 'HOD Approve' or . = 'HOD Approve')]</value>
+      <webElementGuid>3175a16e-8f40-4871-8505-3afbcda69b3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

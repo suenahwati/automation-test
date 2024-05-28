@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_all_check_box</name>
+   <tag></tag>
+   <elementGuidId>180dc0a7-88a4-48ea-919b-d638be02f77c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SetupCategory']/thead/tr/th/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label > i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b089583f-6687-4042-8d67-c9131a0a9245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SetupCategory&quot;)/thead[1]/tr[1]/th[@class=&quot;select_checkbox footable-visible footable-first-column&quot;]/label[1]/i[1]</value>
+      <webElementGuid>da8cd5d8-afab-4bad-86aa-681a06ff0a06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SetupCategory']/thead/tr/th/label/i</value>
+      <webElementGuid>4ab60feb-84c2-435f-826c-ec37eb72e6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+      <webElementGuid>ee5ca9c8-bfc5-4d72-9a49-869b90d4d221</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

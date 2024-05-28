@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_check_box</name>
+   <tag></tag>
+   <elementGuidId>5068b842-cd5b-42aa-b5c8-2215d8a8a6c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SetupCategory']/tbody/tr/td/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.select_checkbox.footable-visible.footable-first-column > label > i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>62b19315-4f0f-4111-bdce-d04a80645026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SetupCategory&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;select_checkbox footable-visible footable-first-column&quot;]/label[1]/i[1]</value>
+      <webElementGuid>316dc420-9569-4565-89e2-f69307b07666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SetupCategory']/tbody/tr/td/label/i</value>
+      <webElementGuid>5b412934-8aba-432d-9999-a0b7f1c73adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/label/i</value>
+      <webElementGuid>f5c568a6-3336-431e-aec8-87b1990339e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

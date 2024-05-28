@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_profile</name>
+   <tag></tag>
+   <elementGuidId>48b6956f-1852-4a9e-aaf2-6c822f179133</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navigation']/ul/li/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.mm-profile.user-link.toggled > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4979c7ac-bef6-4240-b2e6-39b00f58a660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jw/web/userview/expenseclaim/home/_/_ja_profile</value>
+      <webElementGuid>a44026b0-9c0e-4755-8529-dba54bc5aaec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Profile</value>
+      <webElementGuid>f2eeb630-c071-4ad5-87f2-8b6ad5f94c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation&quot;)/ul[@class=&quot;user-menu nav nav-tabs nav-stacked main-menu&quot;]/li[@class=&quot;mm-profile user-link toggled&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>ae29b4f9-5745-4468-8865-3ed23de011cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navigation']/ul/li/ul/li/a</value>
+      <webElementGuid>3272dbed-f247-449d-bca3-5b62098b47f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='suenawati@itasoft.co.id'])[1]/following::a[1]</value>
+      <webElementGuid>9d702bea-5633-4631-bfd2-964159abd7bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alsye Alfiantie'])[1]/following::a[1]</value>
+      <webElementGuid>cfbab9ba-303f-41af-8491-b58241a0345a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/preceding::a[1]</value>
+      <webElementGuid>7d329978-26fb-4ff4-91c4-10210d2c2496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jw/web/userview/expenseclaim/home/_/_ja_profile')]</value>
+      <webElementGuid>85eac297-e518-40a0-8d54-4adba463a12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li/ul/li/a</value>
+      <webElementGuid>2410529f-807c-476b-92e3-90418582e073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jw/web/userview/expenseclaim/home/_/_ja_profile' and (text() = ' Profile' or . = ' Profile')]</value>
+      <webElementGuid>47e589d6-9f2a-49c7-9afd-b04d99c144b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

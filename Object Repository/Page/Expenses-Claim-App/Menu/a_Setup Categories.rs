@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Setup Categories</name>
+   <tag></tag>
+   <elementGuidId>1d1e7c4c-647d-423a-96df-7834e2caba4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='category-107D714EB2F4420EB7490AAD7F483BF0']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#category-107D714EB2F4420EB7490AAD7F483BF0 > a.dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>76b241f2-ea5c-4937-9760-8d265d4ac33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> dropdown</value>
+      <webElementGuid>40305435-09bc-4b0b-85cf-60965ba8d43c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>93a2e484-f531-4412-839e-abf16c14ce1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Setup Categories</value>
+      <webElementGuid>4487bae4-f635-43cf-af7c-2ffbe16245df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category-107D714EB2F4420EB7490AAD7F483BF0&quot;)/a[@class=&quot;dropdown&quot;]</value>
+      <webElementGuid>786e525b-8f17-4a6e-a4c9-64266e9fc8cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='category-107D714EB2F4420EB7490AAD7F483BF0']/a</value>
+      <webElementGuid>2303c00e-2e6b-4a27-8b09-a350bdcb5de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Expenses History'])[2]/following::a[1]</value>
+      <webElementGuid>a2d21b64-99b2-40af-b532-7b79c25b87de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Inbox'])[1]/following::a[2]</value>
+      <webElementGuid>67a5f40c-5cbc-4532-8f5a-a5b5917b6ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup Categories'])[2]/preceding::a[1]</value>
+      <webElementGuid>584f766b-9948-4d50-918f-cbaaf8351b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[4]</value>
+      <webElementGuid>d0ee8be5-d9a4-4cb1-a98e-81ef566909b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>13045dcf-94b4-4e14-838d-c9aa930c663c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = ' Setup Categories' or . = ' Setup Categories')]</value>
+      <webElementGuid>ac0bf362-b19c-47fd-8ff0-21d3c3e07864</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Info</name>
+   <tag></tag>
+   <elementGuidId>82cdbc22-e397-4ac2-bd2c-9860f73f38dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='category-C4DAC3460CDF46B2843746009BD27D7E']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#category-C4DAC3460CDF46B2843746009BD27D7E > a.dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b09ee42-c102-4479-8292-7ae2e81a95cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> dropdown</value>
+      <webElementGuid>df4e97ff-e2bd-4698-ac9a-accf3b15ed16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>31157fd5-4310-46c7-b42a-89818cc6f2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Info</value>
+      <webElementGuid>2a5c45ab-5745-4317-8b3f-ea86e0bcd64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category-C4DAC3460CDF46B2843746009BD27D7E&quot;)/a[@class=&quot;dropdown&quot;]</value>
+      <webElementGuid>98ab237f-1a2a-477c-8711-ee50d82e05c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='category-C4DAC3460CDF46B2843746009BD27D7E']/a</value>
+      <webElementGuid>4eeb7466-3488-439f-bd6f-5059505781f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Categories'])[1]/following::a[1]</value>
+      <webElementGuid>76322221-7b4b-48b6-bd6c-67fb2e8ef52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup Categories'])[2]/following::a[2]</value>
+      <webElementGuid>23536eff-7e1c-4690-9043-7de195b62aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::a[1]</value>
+      <webElementGuid>d6d99fd6-262c-42ca-9d3b-3cda55166ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[5]</value>
+      <webElementGuid>14620bb6-be51-4cc3-abb2-2dffde3d0870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>4b66dc7e-6bb1-4c68-baab-a27adfc85f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = ' Info' or . = ' Info')]</value>
+      <webElementGuid>6f2025b9-3459-46b6-a72c-af87ec027a06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

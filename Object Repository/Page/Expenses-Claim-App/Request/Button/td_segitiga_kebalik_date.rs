@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_segitiga_kebalik_date</name>
+   <tag></tag>
+   <elementGuidId>fddcba1e-0b20-42cf-a086-45cdd2070431</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[1]/div/div[2]/main/div[1]/fieldset/form/div[2]/div[2]/div[2]/div[2]/div/div[1]/div/div/div/table/tbody/tr/td[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>▼</value>
+      <webElementGuid>34479677-607f-4f6b-8ea4-fe82d18c6a45</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

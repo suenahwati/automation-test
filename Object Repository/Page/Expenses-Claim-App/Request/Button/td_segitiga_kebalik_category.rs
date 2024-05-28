@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_segitiga_kebalik_category</name>
+   <tag></tag>
+   <elementGuidId>1aed305d-d140-4da3-9d37-b7412676d230</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.htAutocomplete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='spreadsheet_spECD_3022']/div/div/div/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '▼' or . = '▼')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>79c893d8-c3c3-4852-800e-b16484f98572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>htAutocomplete</value>
+      <webElementGuid>0c14c807-f9f9-4fa4-a131-6ae0d1c59a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>▼</value>
+      <webElementGuid>68ecd3a2-77fc-468b-8d81-a2516937ad7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spreadsheet_spECD_3022&quot;)/div[@class=&quot;ht_master handsontable&quot;]/div[@class=&quot;wtHolder&quot;]/div[@class=&quot;wtHider&quot;]/div[@class=&quot;wtSpreader&quot;]/table[@class=&quot;htCore&quot;]/tbody[1]/tr[1]/td[@class=&quot;htAutocomplete&quot;]</value>
+      <webElementGuid>464aff1d-14db-497b-8162-1df3d4dd768c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='spreadsheet_spECD_3022']/div/div/div/div/table/tbody/tr/td</value>
+      <webElementGuid>ecf1ac98-3bb4-4143-9a79-e81acf5aa394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::td[1]</value>
+      <webElementGuid>318be248-0f9a-40fa-8150-e488b017cbb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purpose'])[1]/following::td[1]</value>
+      <webElementGuid>fc1af9a9-67f4-450d-a31a-ac369b6171ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[2]/preceding::td[1]</value>
+      <webElementGuid>4cf3d03d-ff9d-4661-9678-71341d3db275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>70fd7ff8-37d7-41d1-b6a0-9ceef52af619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '▼' or . = '▼')]</value>
+      <webElementGuid>d2318ab4-4471-4adb-a58f-020673d112f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

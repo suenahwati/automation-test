@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_About</name>
+   <tag></tag>
+   <elementGuidId>596fd389-1ec5-46b4-acc3-36d28468cac9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='6352FA6CEE9D43AABF3734F092C0C52F']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6352FA6CEE9D43AABF3734F092C0C52F > a.menu-link.default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fe198e50-7a69-4e2b-bf83-bf7d118baef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jw/web/userview/expenseclaim/home/_/a</value>
+      <webElementGuid>b31e294c-4279-4661-98e1-23c2fc8c88f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link default</value>
+      <webElementGuid>2f82c122-7051-4143-a7ea-eb23948552c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About</value>
+      <webElementGuid>a7bf2614-d2be-4e71-aaf6-b4de0e1ee8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6352FA6CEE9D43AABF3734F092C0C52F&quot;)/a[@class=&quot;menu-link default&quot;]</value>
+      <webElementGuid>254de039-0f3d-4b7a-8cdc-96f06092a22c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='6352FA6CEE9D43AABF3734F092C0C52F']/a</value>
+      <webElementGuid>28a2ee22-1438-41f2-b949-ee852d4c595e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/following::a[1]</value>
+      <webElementGuid>fa8dfcaf-445a-4452-a911-6bc249270556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Categories'])[1]/following::a[2]</value>
+      <webElementGuid>4b3288c4-dc8e-4cdc-889e-224e74f0fae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joget Resources'])[1]/preceding::a[1]</value>
+      <webElementGuid>f671f141-9a3d-4cd5-99d4-1c0dca59903c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/jw/web/userview/expenseclaim/home/_/a')])[3]</value>
+      <webElementGuid>e64977eb-0612-4a82-88b3-dfe5fd3a85af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/a</value>
+      <webElementGuid>8957d9df-e4f8-4c22-b411-5e9df648502a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jw/web/userview/expenseclaim/home/_/a' and (text() = 'About' or . = 'About')]</value>
+      <webElementGuid>168d9a3c-74a5-4ef5-ab50-c4188627d3e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

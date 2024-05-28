@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Finance List</name>
+   <tag></tag>
+   <elementGuidId>b4dc1380-18ac-434a-9564-b27ba9f1a513</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='category-0DE64822219F44CB9C0CEBF40454D2B8']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#category-0DE64822219F44CB9C0CEBF40454D2B8 > a.dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b5c45428-0cb7-465f-9a48-7f1dcf60d0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> dropdown</value>
+      <webElementGuid>01f488df-831e-4c28-8477-b3bbe2b18893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>672cb162-01a7-4d1a-81a4-e49d3742351f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Finance List</value>
+      <webElementGuid>d6a0a609-3644-4137-80a2-0e6c0d786e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category-0DE64822219F44CB9C0CEBF40454D2B8&quot;)/a[@class=&quot;dropdown&quot;]</value>
+      <webElementGuid>7f8601a3-62a3-4379-b77c-2f3b3db477ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='category-0DE64822219F44CB9C0CEBF40454D2B8']/a</value>
+      <webElementGuid>282299a4-7025-4e79-9643-4da03744e80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Expenses History'])[1]/following::a[1]</value>
+      <webElementGuid>e8bcd770-2f1f-49ec-bfd3-440f93a6fe34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approver Inbox'])[1]/following::a[2]</value>
+      <webElementGuid>60f75b20-c603-47cc-b11d-2b10cbbfeb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Inbox'])[1]/preceding::a[1]</value>
+      <webElementGuid>6f02f265-5773-4610-b110-a0a420a4462c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[3]</value>
+      <webElementGuid>c6c49f9a-6700-48f4-bd12-cb3240869ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>cabd0527-1510-41fa-bfce-85f9ef2eabf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = ' Finance List' or . = ' Finance List')]</value>
+      <webElementGuid>f2323f5c-f3f4-4626-a2c3-dd43f47a390a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>90580e4d-1482-45cb-910d-6ff2b70a3d87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='D7AC42CBC83548ABB13C84C4BC7BE611']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-link.default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d4351daa-c3c1-42f5-8fc1-a09d1e79765c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jw/web/userview/expenseclaim/home/_/da</value>
+      <webElementGuid>62920fbd-5cda-41b4-a240-dbf9cca51cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link default</value>
+      <webElementGuid>d1ddb2a7-24c8-4f90-b81c-32d7c484141e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dashboard</value>
+      <webElementGuid>77395815-1b7a-46ae-9653-85230f04a9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;D7AC42CBC83548ABB13C84C4BC7BE611&quot;)/a[@class=&quot;menu-link default&quot;]</value>
+      <webElementGuid>9628ea8d-a285-490b-bbb5-d0c7593a0203</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='D7AC42CBC83548ABB13C84C4BC7BE611']/a</value>
+      <webElementGuid>7c353c02-ec63-40b5-93ef-ac9cfef5141b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/following::a[1]</value>
+      <webElementGuid>6037c7ae-bbaf-46a6-9b36-69d8970a1581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[2]</value>
+      <webElementGuid>4dacfde4-1594-45b0-b470-e9765c55d949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Expenses'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b28fb97-80dd-46a8-857f-e479b611316d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/jw/web/userview/expenseclaim/home/_/da')])[2]</value>
+      <webElementGuid>1a7b0f34-5c0b-40cc-9c7f-662af84e5b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/a</value>
+      <webElementGuid>307ee55a-74d4-496d-b139-43e18340b103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jw/web/userview/expenseclaim/home/_/da' and (text() = ' Dashboard' or . = ' Dashboard')]</value>
+      <webElementGuid>02de20c8-eab5-4388-829e-9f88bc441b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

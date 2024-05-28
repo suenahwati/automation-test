@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>klik_amount</name>
+   <tag></tag>
+   <elementGuidId>77ac95bf-3cf0-428b-ae69-da41fd805286</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.htDimmed.current.highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[1]/div/div[2]/main/div[1]/fieldset/form/div[2]/div[2]/div[2]/div[2]/div/div[1]/div/div/div/table/tbody/tr[1]/td[4]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'htDimmed current highlight']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0ad3a2e3-80bb-45c8-a6b1-c34a56655c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>htDimmed current highlight</value>
+      <webElementGuid>d365b468-d292-44a9-859c-251e9b05be63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spreadsheet_spECD_1420&quot;)/div[@class=&quot;ht_master handsontable&quot;]/div[@class=&quot;wtHolder&quot;]/div[@class=&quot;wtHider&quot;]/div[@class=&quot;wtSpreader&quot;]/table[@class=&quot;htCore&quot;]/tbody[1]/tr[1]/td[@class=&quot;htDimmed current highlight&quot;]</value>
+      <webElementGuid>a1606473-b3a2-40cd-a4a4-6a9ab4952325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='spreadsheet_spECD_1420']/div/div/div/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>eb0e7919-dddb-4fad-9f5e-59da2c8dd1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tes'])[1]/following::td[1]</value>
+      <webElementGuid>f8e89616-f0e4-47a5-a224-efe9aacb9bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[2]/following::td[2]</value>
+      <webElementGuid>8775f201-4d85-4838-8168-d8f87ae709f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[2]/preceding::td[1]</value>
+      <webElementGuid>69d3f8d0-8ab8-4fca-9798-382b86d7da12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[2]/preceding::td[1]</value>
+      <webElementGuid>411ffcb3-1dd7-4756-a4b3-5c6708d3b30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>becd34de-45e3-4efa-90bb-fd77fd2b6469</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
