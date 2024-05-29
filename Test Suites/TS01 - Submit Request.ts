@@ -15,7 +15,7 @@
       <guid>478cbcbf-bfff-4553-acad-9a580b36db15</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Submit Request/TC00 - Tes Submit</testCaseId>
+      <testCaseId>Test Cases/Submit Request/TC00 - Tes Submit Request</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
