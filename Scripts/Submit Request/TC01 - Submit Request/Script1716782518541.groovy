@@ -102,7 +102,7 @@ WebUI.setText(findTestObject('Object Repository/temp/input_Total Amount_total'),
 
 WebUI.click(findTestObject('Object Repository/temp/input_Total Amount_total'))
 
-WebUI.click(findTestObject('Object Repository/temp/div_Drop files here or click to upload'))
+WebUI.click(findTestObject('Object Repository/Page/Expenses-Claim-App/Request/Button/upload_file'))
 
 WebUI.click(findTestObject('Object Repository/Page/Expenses-Claim-App/Request/Button/input__assignmentComplete'))
 

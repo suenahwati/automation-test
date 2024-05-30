@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Drop files here or click to upload</name>
+   <name>upload_file</name>
    <tag></tag>
    <elementGuidId>982cf6dc-7adf-42f0-8585-13fd79c987a3</elementGuidId>
    <selectorCollection>

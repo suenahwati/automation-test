@@ -100,7 +100,7 @@ WebUI.setText(findTestObject('Page/Expenses-Claim-App/Request/InputField/set_Amo
 WebUI.sendKeys(findTestObject('Page/Expenses-Claim-App/Request/InputField/set_Amount'), Keys.chord(Keys.ENTER))
 
 'Memanggil Controller Dengan Object Upload File'
-controller.robotUploadFile('Object Repository/temp/div_Drop files here or click to upload')
+controller.robotUploadFile('Page/Expenses-Claim-App/Request/Button/upload_file')
 
 WebUI.click(findTestObject('Object Repository/Page/Expenses-Claim-App/Request/Button/input__assignmentComplete'))
 
