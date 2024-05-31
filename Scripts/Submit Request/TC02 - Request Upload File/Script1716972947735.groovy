@@ -23,20 +23,8 @@ import java.util.Calendar as Calendar
 'Memanggil Method Controller'
 def controller = new Controller()
 
-'Inisialisasi Kalender'
-Calendar cal = Calendar.getInstance()
-
-'Ambil tanggal & waktu sekarang'
-Date currentDate = cal.time
-
-'Inisialisasi & membuat format tanggal ke dd-mm-yyyy HH:mm:ss'
-SimpleDateFormat dateFormat = new SimpleDateFormat('dd-MM-yyyy HH:mm:ss')
-
-'Menggambil tanggal hari ini dan merubah format ke dd-mm-yyyy'
-String formattedDateTime = dateFormat.format(currentDate)
-
-'Rubah teks : ke .'
-formattedDateTime.replaceAll(':', '.')
+'Inisialisasi Penampung Nilai Object'
+String getDate = controller.getCurrentDate()
 
 WebUI.openBrowser('')
 
@@ -44,13 +32,8 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(GlobalVariable.BASE_URL)
 
-WebUI.click(findTestObject('Page/Login/Button/btn_login'))
-
-WebUI.setText(findTestObject('Page/Login/InputField/input_Username_j_username'), GlobalVariable.USER_NAME)
-
-WebUI.setEncryptedText(findTestObject('Page/Login/InputField/input_Password_j_password'), GlobalVariable.PASSWORD)
-
-WebUI.click(findTestObject('Page/Login/Button/btn_submit'))
+'Pemanggilan method login dengan global parameter username'
+controller.login(GlobalVariable.USER_NAME)
 
 WebUI.click(findTestObject('Page/Expenses-Claim-App/Menu/a_My Expenses'))
 
@@ -58,8 +41,9 @@ WebUI.click(findTestObject('Page/Expenses-Claim-App/Menu/a_Submitted Expenses 0'
 
 WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Button/button_Create A New Expense Claim'))
 
+'Pemanggilan Function getCurrentDate'
 WebUI.setText(findTestObject('Object Repository/Page/Expenses-Claim-App/Request/InputField/input__title'), 'Transportation ' + 
-    formattedDateTime)
+    getDate)
 
 WebUI.setText(findTestObject('Page/Expenses-Claim-App/Request/InputField/input_Remark_remark'), 'Expenses Claim')
 
@@ -79,15 +63,15 @@ WebUI.sendKeys(findTestObject('Page/Expenses-Claim-App/Request/InputField/textar
 
 WebUI.doubleClick(findTestObject('Page/Expenses-Claim-App/Request/Button/td_segitiga_kebalik_date'))
 
-WebUI.waitForElementClickable(findTestObject('Page/Expenses-Claim-App/Request/Button/btn_pika_next'), 3, FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForElementClickable(findTestObject('Page/Expenses-Claim-App/Request/Button/btn_pika_next'), 15, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Button/btn_pika_next'),FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Button/btn_pika_next'), FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByLabel(findTestObject('Page/Expenses-Claim-App/Request/DropDown/dropdown_bulan'), 'May', false, FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByLabel(findTestObject('Page/Expenses-Claim-App/Request/DropDown/dropdown_tahun'), '2024', false, FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Hari/button_19'),FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Hari/button_19'), FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Button/klik_purpose'))
 

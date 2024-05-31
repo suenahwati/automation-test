@@ -22,10 +22,13 @@ import java.awt.event.KeyEvent as KeyEvent
 import java.awt.Toolkit as Toolkit
 import java.awt.datatransfer.StringSelection as StringSelection
 import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
+import java.time.format.DateTimeFormatter as DateTimeFormatter
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Calendar as Calendar
 
 
 public class Controller {
-	
+
 	void robotUploadFile(String uploadLocator) {
 		'Arahkan dengan mouse over'
 		WebUI.mouseOver(findTestObject(uploadLocator))
@@ -41,9 +44,9 @@ public class Controller {
 
 		// rubah tanda "/" jadi "\" (Dokumen)
 		fileDocPath = fileDocPath.replaceAll('/', '\\\\')
-		
+
 		copyToClipboard(fileDocPath)
-		
+
 		// klik Area Upload File
 		WebUI.click(findTestObject(uploadLocator))
 
@@ -56,7 +59,7 @@ public class Controller {
 		'Lakukan Press ENTER'
 		combinationENTER()
 	}
-	
+
 	/**
 	 * <b>copyToClipboard()</b>
 	 * digunakan untuk melakukan salin teks ke clipboard external chrome
@@ -65,7 +68,7 @@ public class Controller {
 	void copyToClipboard(String text) {
 		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(new StringSelection(text), null)
 	}
-	
+
 	/**
 	 * <b>combinationCTRLV()</b>
 	 * digunakan untuk melakukan perintah CTRL+V (Paste) pada chrome
@@ -101,5 +104,32 @@ public class Controller {
 		robot.keyRelease(KeyEvent.VK_ENTER)
 	}
 
+	public String getCurrentDate() {
+		'Inisialisasi Kalender'
+		Calendar cal = Calendar.getInstance()
 
+		'Ambil tanggal & waktu sekarang'
+		Date currentDate = cal.time
+
+		'Inisialisasi & membuat format tanggal ke dd-mm-yyyy HH:mm:ss'
+		SimpleDateFormat dateFormat = new SimpleDateFormat('dd-MM-yyyy HH:mm:ss')
+
+		'Menggambil tanggal hari ini dan merubah format ke dd-mm-yyyy'
+		String formattedDateTime = dateFormat.format(currentDate)
+
+		'Rubah teks : ke .'
+		formattedDateTime.replaceAll(':', '.')
+
+		return formattedDateTime
+	}
+
+	void login(String username) {
+		WebUI.click(findTestObject('Page/Login/Button/btn_login'))
+
+		WebUI.setText(findTestObject('Page/Login/InputField/input_Username_j_username'), username)
+
+		WebUI.setEncryptedText(findTestObject('Page/Login/InputField/input_Password_j_password'), GlobalVariable.PASSWORD)
+
+		WebUI.click(findTestObject('Page/Login/Button/btn_submit'))
+	}
 }

@@ -17,19 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'Memanggil Method Controller'
+def controller = new Controller()
+
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(GlobalVariable.BASE_URL)
 
-WebUI.click(findTestObject('Page/Login/Button/btn_login'))
-
-WebUI.setText(findTestObject('Page/Login/InputField/input_Username_j_username'), GlobalVariable.USER_NAME_FINANCE)
-
-WebUI.setEncryptedText(findTestObject('Page/Login/InputField/input_Password_j_password'), GlobalVariable.PASSWORD)
-
-WebUI.click(findTestObject('Page/Login/Button/btn_submit'))
+'Pemanggilan method login dengan global variable parameter username'
+controller.login(GlobalVariable.USER_NAME_FINANCE)
 
 WebUI.click(findTestObject('Page/Expenses-Claim-App/Menu/a_My Expenses'))
 
