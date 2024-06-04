@@ -4,5 +4,6 @@
    <name>TC02 - Request Upload File</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>d4d1dd89-2d8f-477a-8b42-baee978cb222</testCaseGuid>
 </TestCaseEntity>

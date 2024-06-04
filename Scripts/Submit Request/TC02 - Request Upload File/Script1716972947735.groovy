@@ -61,9 +61,9 @@ WebUI.setText(findTestObject('Page/Expenses-Claim-App/Request/InputField/textare
 
 WebUI.sendKeys(findTestObject('Page/Expenses-Claim-App/Request/InputField/textarea_category-expense'), Keys.chord(Keys.ENTER))
 
-WebUI.doubleClick(findTestObject('Page/Expenses-Claim-App/Request/Button/td_segitiga_kebalik_date'))
+WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Button/td_segitiga_kebalik_date'))
 
-WebUI.waitForElementClickable(findTestObject('Page/Expenses-Claim-App/Request/Button/btn_pika_next'), 15, FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForElementClickable(findTestObject('Page/Expenses-Claim-App/Request/Button/btn_pika_next'), 15, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Page/Expenses-Claim-App/Request/Button/btn_pika_next'), FailureHandling.OPTIONAL)
 

@@ -4,5 +4,6 @@
    <name>TC00 - Tes Submit Request</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>11ac1906-179c-4c0c-9e66-00a5bcbab7e1</testCaseGuid>
 </TestCaseEntity>
